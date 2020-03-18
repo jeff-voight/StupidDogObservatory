@@ -1,0 +1,3 @@
+[submodule "StupidDogFocuser"]
+	path = StupidDogFocuser
+	url = https://github.com/jvoight0205/StupidDogFocuser.git
